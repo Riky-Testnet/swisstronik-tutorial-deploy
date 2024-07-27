@@ -1,7 +1,5 @@
 # swisstronik-tutorial-deploy-contract-on-hardhat
 
-### Video Tutorial : 
-
 ### Install : 
 ```
 npm install --save-dev @nomicfoundation/hardhat-toolbox
