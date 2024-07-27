@@ -152,7 +152,7 @@ main().catch((error) => {
 npx hardhat run scripts/setMessage.js --network swisstronik
 ```
 
-Jika Terjadi Gagal Silahkan Jalankan Command Berikut :
+📌Jika Terjadi Gagal Silahkan Jalankan Command Berikut :
 ```
 npm install @swisstronik/utils
 ```
