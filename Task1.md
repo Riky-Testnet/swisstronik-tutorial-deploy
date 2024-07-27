@@ -111,6 +111,8 @@ Deploy the contract by running
 ```
 npx hardhat run scripts/deploy.js --network swisstronik
 ```
+
+📌Setelah Itu Akan Muncul Smartcontract Silahkan Copy Dan Masukkan Ke Webnya
 ----------------------------
 
 buat File di Folder Scripts dengan Nama  setMessage.js
@@ -206,3 +208,5 @@ git remote add origin https://github.com/gantilinkkaliant.git
 git branch -M main
 git push -u origin main
 ```
+
+📌Setelah Kalian Deploy Ke Repository Silahkan Untuk Share Repo Kalian ke Webnya
